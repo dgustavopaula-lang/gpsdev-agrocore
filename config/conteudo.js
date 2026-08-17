@@ -3,7 +3,7 @@ window.AGROCORE = {
   slogan: "Tecnologia para transformar problemas reais em sistemas inteligentes.",
   descricao: "Plataforma de gestão rural inteligente com operação mobile, AgroCoreIA e planos SaaS.",
   email: "dgustavopaula@gmail.com",
-  whatsapp: "5564992035821",,
+  whatsapp: "5564992035821",
   github: "https://github.com/dgustavopaula-lang",
   portfolio: "https://portfolio-gustavo-7oca.onrender.com",
   blog: "https://gustavopaulasantos.com.br/",
