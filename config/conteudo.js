@@ -1,7 +1,7 @@
 window.AGROCORE = {
   marca: "GPS.dev AgroCore",
   slogan: "Tecnologia para transformar problemas reais em sistemas inteligentes.",
-  descricao: "Plataforma de gestão rural inteligente com operação mobile, AgroCoreIA e planos SaaS.",
+  descricao: "Sistema SaaS de gestão rural inteligente com operação mobile, AgroCoreIA e planos SaaS.",
   email: "dgustavopaula@gmail.com",
   whatsapp: "5564992035821",
   github: "https://github.com/dgustavopaula-lang",
